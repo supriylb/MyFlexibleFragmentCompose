@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Flexible Fragment Compose</string>
+
+    <string name="home_welcome">Hello, Home Screen!</string>
+    <string name="btn_go_category">Go to Category</string>
+
+    <string name="title_category">Category</string>
+    <string name="btn_go_lifestyle">Go to Lifestyle</string>
+
+    <string name="label_category_name">Category Name</string>
+    <string name="label_category_desc">Category Description</string>
+    <string name="btn_go_profile">Go to Profile</string>
+    <string name="btn_show_dialog">Show Dialog</string>
+
+    <string name="title_profile">Profile</string>
+
+    <string name="dialog_coach_title">Who is the most successful manager of Manchester United?</string>
+    <string name="coach_saf">Sir Alex Ferguson</string>
+    <string name="coach_mou">José Mourinho</string>
+    <string name="coach_lvg">Louis van Gaal</string>
+    <string name="coach_moyes">David Moyes</string>
+
+    <string name="btn_close">Close</string>
+    <string name="btn_select">Select</string>
+</resources>
